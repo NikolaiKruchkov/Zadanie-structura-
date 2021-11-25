@@ -1,0 +1,14 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\bin\Debug\netcoreapp3.1\Zadanie struktura.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание структуры\Zadanie struktura\Zadanie struktura\obj\Debug\netcoreapp3.1\Zadanie struktura.genruntimeconfig.cache
